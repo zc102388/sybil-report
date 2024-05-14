@@ -1,10 +1,10 @@
 # LayerZero Sybil Reporting
 
-The [deadline to self-report](https://sybil.layerzero.network/) as sybil is May 17th, 11:59:59 UTC, coinciding with the publication of the up-to-date list of self-reported and identified sybil addresses found by LayerZero Foundation, Chaos Labs, and Nansen. This will mark the end of Phase 1 of [addressing sybil activity](https://medium.com/layerzero-official/addressing-sybil-activity-a2f92218ddd3). 
+The [deadline to self-report](https://sybil.layerzero.network/) as sybil is May 18th, 02:00 UTC, following the publication of the up-to-date list of self-reported and identified sybil addresses found by LayerZero Foundation, Chaos Labs, and Nansen. This will mark the end of Phase 1 of [addressing sybil activity](https://medium.com/layerzero-official/addressing-sybil-activity-a2f92218ddd3). 
 
-Phase 2 begins on May 18th at 00:00 UTC, at which anyone can submit a sybil activity report. Successful reports result in the sybil addresses receiving nothing and the bounty hunter receiving 10% of the sybil’s intended allocation. 
+Phase 2 begins on May 18th at 02:00 UTC, at which anyone can submit a sybil activity report. Successful reports result in the sybil addresses receiving nothing and the bounty hunter receiving 10% of the sybil’s intended allocation. 
 
-Bounty hunters can use the information below to start producing reports; however, submissions will not be open until May 18th at 00:00 UTC. Submissions received before the start time, and after the deadline, will not be considered.
+Bounty hunters can use the information below to start producing reports; however, submissions will not be open until May 18th at 02:00 UTC. Submissions received before the start time, and after the deadline, will not be considered.
 
 **All transaction data prior to Snapshot #1 can be downloaded [here](https://www.dropbox.com/scl/fo/m0ji3zbmbockvqkyl9353/ALYUg0-rLU2fuDMSd9nuB34?rlkey=zwq18pmajs4k8aeeh5zz5wfsp&st=yjclkh3e&dl=0). The data is provided in two formats, one single csv file and a tar file that is split into smaller chunks.**
 
@@ -14,7 +14,7 @@ Bounty hunters can use the information below to start producing reports; however
 - **Excluded Addresses:** Bounty addresses must not overlap with the identified sybil list published by LayerZero, Nansen, and Chaos (which will include self-reported addresses). 
 - **Minimum Address:** Reports must contain at least 20 addresses with clear methodology.
 - **Disqualifications:** Reports including addresses already published, addresses with no LayerZero transactions, or reports lacking sufficient reasoning and/or methodology will be disqualified. 
-- **Submission Deadline:** The deadline to submit reports is May 31st 00:00 UTC
+- **Submission Deadline:** The deadline to submit reports is May 31st 23:59 UTC
 - **Submission Review:** Bounty awarded to the first **eligible** report for a given sybil address.
 - **Final Authority:** Eligibility of a submission is at the sole discretion of LayerZero Foundation and its best efforts to review all submissions.
 
