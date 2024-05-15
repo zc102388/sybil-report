@@ -1,0 +1,17 @@
+import {AptosAccount} from 'aptos';
+import http from 'redaxios';
+
+const account = new AptosAccount('privateKey');
+const message = 'This is a sybil address';
+const signature = account.signBuffer(Buffer.from(message, 'utf-8'));
+
+const {data} = await http.post('https://sybil.layerzero.network/api/report', {
+  chainType: 'aptos',
+  signature: signature.toString(),
+  message,
+  address: account.address().toString(),
+  fullMessage: message,
+  publicKey: account.pubKey().hex().toString(),
+});
+
+console.log(data);
