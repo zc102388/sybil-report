@@ -6,7 +6,7 @@ Phase 2 begins on May 18th at 02:00 UTC, at which anyone can submit a sybil acti
 
 Bounty hunters can use the information below to start producing reports; however, submissions will not be open until May 18th at 02:00 UTC. Submissions received before the start time, and after the deadline, will not be considered.
 
-**All transaction data prior to Snapshot #1 can be downloaded [here](https://www.dropbox.com/scl/fo/m0ji3zbmbockvqkyl9353/ALYUg0-rLU2fuDMSd9nuB34?rlkey=zwq18pmajs4k8aeeh5zz5wfsp&st=yjclkh3e&dl=0). The data is provided in two formats, one single csv file and a tar file that is split into smaller chunks.**
+**All transaction data prior to Snapshot #1 can be downloaded [here](https://www.dropbox.com/scl/fo/m0ji3zbmbockvqkyl9353/ALYUg0-rLU2fuDMSd9nuB34?rlkey=kdu7zf877k919c34t754nxerc&st=qz5cfa1n&dl=0). The data is provided in two formats, one single csv file and a tar file that is split into smaller chunks.**
 
 ## Guidelines
 
